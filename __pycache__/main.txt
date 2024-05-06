@@ -1,0 +1,5 @@
+pip install Flask requests
+
+set AIRVISUAL_API_KEY=TwójKluczAPI
+export AIRVISUAL_API_KEY=TwójKluczAPI
+python app.py
